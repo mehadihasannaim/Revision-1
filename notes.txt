@@ -1,1 +1,2 @@
 Created notes.txt file.
+Added this file into local repo
